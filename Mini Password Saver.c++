@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    string pass;
+
+    cin >> pass;
+
+    cout << "Password Saved";
+}
